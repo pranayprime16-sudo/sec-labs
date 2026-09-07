@@ -10,10 +10,13 @@ Build a cybersecurity career through hands-on hacking and bug bounties.
 - Bug Bounty Hunting (HackerOne)
 
 ## 📋 Progress
-- [ ] 10 TryHackMe Rooms
-- [ ] 5 HackTheBox Machines
-- [ ] First Bug Bounty
-- [ ] Security+ Certification
+
+* 3 TryHackMe Rooms ✅
+  - Offensive Security Intro
+  - Careers in Cyber
+  - Inside the Computer
+* Vim basics ✅
+* Linux WSL setup (in progress)
 
 ## 🔐 Writeups
 [Will be added as I complete labs]
